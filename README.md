@@ -2,7 +2,7 @@
 
 A sample project that integrates GitHub Actions CI/CD workflows with containerized Java applications and Kubernetes manifests. This repository demonstrates automation of build and deploy pipelines using GitHub Actions, along with sample Kubernetes configuration files for deploying a Java bank application with a MySQL database.
 
-🚀 Project Overview
+🚀 Project Overview #
 
 This repository includes:
 
